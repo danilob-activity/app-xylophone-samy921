@@ -1,4 +1,4 @@
-package com.londonappbrewery.xylophonepm;
+package com.profdanilo.activity;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

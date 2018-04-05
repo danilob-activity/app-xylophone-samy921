@@ -1,10 +1,12 @@
-package com.londonappbrewery.xylophonepm;
+package com.profdanilo.activity;
 
 import android.media.AudioManager;
 import android.media.SoundPool;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+
+import com.profdanilo.activity.R;
 
 public class MainActivity extends AppCompatActivity {
 
